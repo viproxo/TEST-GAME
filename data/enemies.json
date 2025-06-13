@@ -1,0 +1,4 @@
+[
+  { "type": "zombie", "hp": 10, "speed": 50 },
+  { "type": "skeleton", "hp": 15, "speed": 60 }
+]
